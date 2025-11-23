@@ -3,7 +3,7 @@ Estimación de parámetros y construcción de intervalos de confianza para la me
 Este script utiliza las librerías NumPy, Matplotlib y SciPy para realizar cálculos estadísticos.
 Los datos son una muestra de 28 observaciones y se asume que siguen una distribución normal 
 Para instalar las librerías necesarias, se puede usar el siguiente comando:
-pip install -r rquirements.txt
+pip install -r requirements.txt
 
 Estudiante: José David Romero Caicedo
 Código: 202222606
